@@ -1,4 +1,4 @@
-frontify-snippets
+Frontify Snippets
 =================
 
-Frontify Snippets
+A collection of reusable Front-End snippets.
